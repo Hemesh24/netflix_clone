@@ -1,1 +1,2 @@
-# netflix_clone
+# netflix-homepage-clone
+it is only compatible for desktop
